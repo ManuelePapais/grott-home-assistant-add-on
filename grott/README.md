@@ -10,7 +10,7 @@ and auto discovery enabled.
 The data is fowarded to the growatt's server.
 The grott server decode them and send them to your HA instance.
 
-This addon is based on the 2.7.8
+This addon is based on the 2.8.2
 [grott](https://github.com/johanmeijer/grott) code
 and current grott_ha extension.
 
